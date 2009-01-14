@@ -4,7 +4,7 @@ README.txt
 Rakefile
 bin/format-helpers
 lib/format-helpers.rb
-lib/format-helpers/bytes_size.rb
+lib/format-helpers/bytes.rb
 spec/format-helpers_spec.rb
 spec/spec_helper.rb
 test/test_format-helpers.rb
