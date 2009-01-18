@@ -1,3 +1,6 @@
+== 1.0.1 / 2009-01-18
+* added time formatters
+
 == 1.0.0 / 2009-01-14
 
 * 1 major enhancement
