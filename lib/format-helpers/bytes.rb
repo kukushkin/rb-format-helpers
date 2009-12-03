@@ -42,7 +42,7 @@ def number_to_human_size( n, precision = 1 )
   
   raise "Number too big"
 end
-alias :number_to_human_size_real, :number_to_human_size
+alias_method :number_to_human_size_real, :number_to_human_size
   
 # Converts +n+ as a number of bytes into a readable string representation.
 #
