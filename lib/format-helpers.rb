@@ -2,7 +2,7 @@
 module FormatHelpers
 
   # :stopdoc:
-  VERSION = '1.2.1'
+  VERSION = '1.3.0'
   LIBPATH = ::File.expand_path(::File.dirname(__FILE__)) + ::File::SEPARATOR
   PATH = ::File.dirname(LIBPATH) + ::File::SEPARATOR
   # :startdoc:
